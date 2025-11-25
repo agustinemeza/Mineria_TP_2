@@ -150,6 +150,11 @@ La solución implementa una arquitectura tipo **Lambda** con zonas:
 
 ---
 
+### DATOS DE PRUEBA **
+
+Los datos de prueba se encuentran en:
+https://drive.google.com/drive/folders/1BRdZ05vFzLtfBP-nSTKS4Ewm24ILpZmw?usp=drive_link
+
 ### 🗃️ 5. SERVING EN CASSANDRA (AstraDB) – **COMPLETADO**
 
 **Objetivo:** Modelar una tabla orientada a consulta (query-first) y cargar el Mart Gold.
@@ -200,8 +205,3 @@ WHERE org_id = 'ORG001'
   AND date >= '2022-01-01'
   AND date <= '2022-01-31'
 ALLOW FILTERING;
-
-### DATOS DE PRUEBA **
-
-Los datos de prueba se encuentran en:
-https://drive.google.com/drive/folders/1BRdZ05vFzLtfBP-nSTKS4Ewm24ILpZmw?usp=drive_link
