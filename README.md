@@ -150,10 +150,12 @@ La solución implementa una arquitectura tipo **Lambda** con zonas:
 
 ---
 
-### DATOS DE PRUEBA **
+### DATOS DE PRUEBA 
 
 Los datos de prueba se encuentran en:
 https://drive.google.com/drive/folders/1BRdZ05vFzLtfBP-nSTKS4Ewm24ILpZmw?usp=drive_link
+
+---
 
 ### 🗃️ 5. SERVING EN CASSANDRA (AstraDB) – **COMPLETADO**
 
